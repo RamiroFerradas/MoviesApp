@@ -33,3 +33,4 @@ La aplicación cuenta con las siguientes características:
 - Búsqueda de películas por título, con la posibilidad de filtrar por tipo (películas, series, juegos) y año de lanzamiento.
 - Paginado que realiza una peticion a cada pagina que devuelve la consulta a la api.
 - Posibilidad de agregar o quitar películas a la sección de favoritos, las cuales quedan guardadas en el almacenamiento local.
+# MoviesApp
